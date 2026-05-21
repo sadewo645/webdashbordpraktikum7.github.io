@@ -1,6 +1,6 @@
 const ENDPOINT =
   import.meta.env.VITE_APP_SCRIPT_ENDPOINT ||
-  'https://script.google.com/macros/s/AKfycbyXzqxqDIn8vNlEDbAjMdIWM2TBuuI_TOLcF29gStPuURXEkF9-_AJ2rFERfN5-hwSG/exec';
+  'https://script.google.com/macros/s/AKfycbzmXIKn_ADyQ_FRd8fuyeqA3M_Y3Kaw7TQodrWg8AajXqojiIyuf7DNhg8P6dAETDkF/exec';
 
 const parseNumber = (value) => {
   const num = Number(value);
